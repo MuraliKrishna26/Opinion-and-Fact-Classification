@@ -11,8 +11,24 @@ We this available data we propose to classify opinions from facts using various 
 
 ## Data Pre-Processing
 
-  -- Stop-Word removal
-  -- Case Conversion
+    - Stop-Word removal
+    - Case Conversion
+    - Tokenization, Lemmatization
+    - Removal of alpha-numeric words and special characters.
+    - Removal of words of length less than 3.
+    
+## Feature Extraction 
+
+    - Bag Of Words
+    - TF-IDF
+    
+## Models Used 
+
+    - KNN
+    - Naive Bayes
+    - Decision Trees
+    - SVM
+    - LSTM
 
 
 
