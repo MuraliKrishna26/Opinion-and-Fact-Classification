@@ -8,3 +8,5 @@ In the present-day technology huge amount of data is being generated every day. 
 
 The dataset we will be using for this project is hand annotated. We considered the data from “movies” domain and annotated them into opinions and facts. Here, the plot of a movie is considered as fact. whereas the review of an individual for a movie is considered as opinion. The dataset contains 94,379 samples which are facts or opinions. Dataset has opinion count of 50,000 whereas facts of 44,379. The dataset has train, cross-validation & test splits.
 We this available data we propose to classify opinions from facts using various machine learning and deep learning techniques.
+
+
